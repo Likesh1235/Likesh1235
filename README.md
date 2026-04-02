@@ -3,13 +3,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likesh1235&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Likesh1235&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Likesh1235&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Likesh1235&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 </div>
 
 <br>
 
-<img align="right" height="120" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" height="120" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 🧠 About Me
 
@@ -31,10 +31,10 @@
 
 <div align="left">
   <a href="mailto:likeshkanna74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/likesh-kanna-77467b30b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
@@ -42,4 +42,4 @@
 
 ## 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake.svg"/>
