@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! I'm Likesh — Aspiring Applied AI Engineer from India 🇮🇳</h2>
-
 <br>
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Likesh1235&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Likesh1235&layout=compact&theme=tokyonight" height="150"/>
