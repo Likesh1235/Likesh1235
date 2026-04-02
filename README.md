@@ -1,57 +1,56 @@
 <h1 align="center">
-  👋 Hi, I'm Likesh
+  <span style="color:#00F7FF;">Likesh</span>
 </h1>
 
 <h3 align="center">
-  <b>Applied AI Engineer (Aspiring)</b> 🤖
+  Applied AI Engineer (Aspiring) 🤖
 </h3>
 
 <p align="center">
-  <i>Building real-world AI systems • ML • NLP • Computer Vision</i>
+  <i>Machine Learning • NLP • Computer Vision • AI Deployment</i>
 </p>
 
 ---
 
 <div align="center">
-
-  <img align="right" height="120" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Machine+Learning;Computer+Vision;Natural+Language+Processing;AI+Systems" />
 </div>
 
 ---
 
-<img align="right" height="120" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 🧠 About Me
 
-* 🎓 CSE AIML Student
-* 🤖 Focus: Machine Learning, NLP, Computer Vision
-* ⚙️ Building AI systems (Model → API → Deployment)
+* CSE AIML Student
+* Focus: Machine Learning, NLP, Computer Vision
+* Building AI systems (Model → API → Deployment)
 
 ---
 
 ### ⚙️ Tech Stack
 
-#### 🧠 AI / ML
+#### AI / ML
 
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge\&logo=python\&logoColor=yellow)
-![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge\&logo=pytorch\&logoColor=red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge\&logo=tensorflow\&logoColor=orange)
-![OpenCV](https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge\&logo=opencv\&logoColor=green)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=yellow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge\&logo=pytorch\&logoColor=red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge\&logo=tensorflow\&logoColor=orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge\&logo=opencv\&logoColor=green)
 
-#### 📊 Data
+#### Data
 
-![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge\&logo=numpy\&logoColor=blue)
-![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge\&logo=pandas\&logoColor=purple)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge\&logo=numpy\&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge\&logo=pandas\&logoColor=purple)
 
-#### ⚙️ Deployment
+#### Deployment
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge\&logo=fastapi\&logoColor=00ffcc)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge\&logo=docker\&logoColor=blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=00ffcc)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=blue)
 
-#### 🛠 Tools
+#### Tools
 
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge\&logo=git\&logoColor=orange)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge\&logo=linux\&logoColor=yellow)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=orange)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge\&logo=linux\&logoColor=yellow)
 
 ---
 
@@ -69,7 +68,5 @@
 ---
 
 ### 🐍 Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake.svg">
-</picture>
+
+<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake.svg"/>
