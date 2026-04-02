@@ -70,5 +70,7 @@
 ---
 
 ### 🐍 Contributions
-
-<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake.svg">
+</picture>
