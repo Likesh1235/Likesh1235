@@ -1,9 +1,9 @@
 <h2 align="center">
-  <span style="color:#00F7FF;">Hi 👋, I'm Likesh</span>
+  <span style="color:#00F7FF;">Hi 👋, I'm Likesh kanna</span>
 </h2>
 
 <p align="center">
-  <b><span style="color:#38BDF8;">Aspiring Applied AI Engineer</span></b> 🇮🇳
+  <b><span style="color:#38BDF8;">Aspiring Applied AI Engineer</span></b> (🇮🇳)
 </p>
 
 ---
