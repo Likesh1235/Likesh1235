@@ -1,39 +1,26 @@
 <div align="center">
 
-<img src="./assets/hero/profile-circle.png" width="220" alt="Likesh Kanna"/>
-
-<br><br>
-
-</div>
-<div align="center">
-
-<img src="./assets/hero/hero.svg" width="100%" alt="Hero Banner"/>
-
-# 👋 Hello, I'm **Likesh Kanna**
-
-### Applied AI Engineer • AI Agent Developer • B.Tech CSE (AI & ML)
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+AI+Systems;Applied+AI+Engineer;LLM+%7C+AI+Agents+%7C+Spring+Boot;Python+%7C+Java+%7C+AI+Engineering" />
+<img src="./assets/hero/profile-circle.png" width="210" alt="Likesh Kanna"/>
 
 <br>
 
-<a href="mailto:likeshkanna74@gmail.com">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+# 👋 Hi, I'm **Likesh Kanna**
 
-<a href="https://www.linkedin.com/in/likesh-kanna-77467b30b">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🚀 Applied AI Engineer • AI Agent Developer
 
-<img src="https://komarev.com/ghpvc/?username=Likesh1235&style=for-the-badge&color=00E5FF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+LLMs+%7C+AI+Agents;Python+%7C+Java+%7C+Spring+Boot;Open+Source+Enthusiast"/>
 
-<img src="https://img.shields.io/github/followers/Likesh1235?style=for-the-badge&color=7C3AED"/>
+<br>
+
+<img src="./assets/hero/divider.svg" width="100%"/>
+
+<br>
+
+<img src="./assets/hero/hero.svg" width="100%"/>
 
 </div>
 
 ---
-
-<img src="./assets/hero/divider.svg" width="100%"/>
 
 # 🚀 About Me
 
