@@ -3,7 +3,9 @@
 <img src="./assets/hero/profile-circle.png" width="175" alt="Likesh Kanna"/>
 
 <br>
-#👋 Hi, I'm <strong>LIKESHKANNA S</strong>
+<h1 align="center">
+  👋 Hi, I'm <strong>LIKESHKANNA S</strong>
+</h1>
 <br>
 
 <img src="./assets/hero/hero.svg" width="100%" alt="Hero Banner"/>
