@@ -30,45 +30,59 @@
 
 # 🚀 About Me
 
-```python
-class LikeshKanna:
+<table>
 
-    name = "Likesh Kanna"
+<tr>
 
-    role = "Applied AI Engineer"
+<td width="60%">
 
-    education = "B.Tech CSE (AI & ML)"
+### 👋 Hi, I'm Likesh Kanna
 
-    university = "SRM Institute of Science and Technology"
+🎓 B.Tech CSE (AI & ML)
 
-    location = "Tamil Nadu, India"
+🏫 SRM Institute of Science and Technology
 
-    languages = [
-        "Python",
-        "Java"
-    ]
+📍 Tamil Nadu, India
 
-    backend = [
-        "Spring Boot"
-    ]
+🤖 Passionate about Applied AI
 
-    ai = [
-        "Machine Learning",
-        "Generative AI",
-        "LLMs",
-        "AI Agents"
-    ]
+💻 Backend Developer
 
-    current_focus = [
-        "Applied AI",
-        "AI Engineering",
-        "Backend Development",
-        "Open Source"
-    ]
+🚀 Building AI-powered products
 
-    motto = "Build useful AI systems that solve real-world problems."
-```
+❤️ Love Open Source
 
+</td>
+
+<td>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=250&height=120&lines=Applied+AI+Engineer;Backend+Developer;Spring+Boot;LLMs;AI+Agents"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+### 🛠 Skills
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring"/>
+
+<img src="https://img.shields.io/badge/LLMs-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-success?style=for-the-badge"/>
+
+</p>
 ---
 
 ## 🎯 Current Focus
