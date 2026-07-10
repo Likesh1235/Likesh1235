@@ -85,25 +85,32 @@ class LikeshKanna:
 
 </p>
 ---
-
-## 🎯 Current Focus
-
-- 🤖 Building intelligent AI applications
-- 🧠 Exploring LLMs and AI Agents
-- ☕ Developing scalable backends with Spring Boot
-- 🐍 Strengthening Python for AI engineering
-- 🚀 Contributing to open-source projects
-- 📚 Continuously learning modern AI technologies
-
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-**SRM Institute of Science and Technology**
+<div align="center">
 
-**Bachelor of Technology**
+| 🎓 Degree | 🏫 University | 🧠 Specialization | 📅 Graduation |
+|:---------:|:-------------:|:-----------------:|:-------------:|
+| **Bachelor of Technology (B.Tech)** | **SRM Institute of Science and Technology** | **Computer Science & Engineering (Artificial Intelligence & Machine Learning)** | **2028** |
 
-**Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-blue?style=for-the-badge&logo=academia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Specialization-AI%20%26%20ML-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/University-SRM%20IST-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Graduation-2028-success?style=for-the-badge"/>
+
+</div>
+
 
 ---
 
