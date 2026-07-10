@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-circle.png" width="220" alt="Likesh Kanna"/>
+<img src="./assets/hero/profile-circle.png" width="220" alt="Likesh Kanna"/>
 
 <br><br>
 
