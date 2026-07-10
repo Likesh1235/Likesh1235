@@ -352,11 +352,19 @@ class LikeshKanna:
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Likesh1235&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python">
 
-</div>
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk">
+
+<img src="https://img.shields.io/badge/Spring-Boot-green?style=for-the-badge&logo=spring">
+
+<img src="https://img.shields.io/badge/AI-Engineer-purple?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open-Source-success?style=for-the-badge">
+
+</p>
 
 ---
 
@@ -405,33 +413,6 @@ class LikeshKanna:
 
 </div>
 
----
-
-# 🌆 3D Contribution Profile
-
-<div align="center">
-
-<a href="https://github.com/Likesh1235/she-ai">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Likesh1235&repo=she-ai&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Likesh1235/she-ai">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Likesh1235&repo=she-ai&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</div>
 ---
 
 
