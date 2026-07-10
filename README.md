@@ -573,8 +573,6 @@ Grow as an AI Engineer
 
 ---
 
-# ⭐ Thanks for Visiting!
-
 <div align="center">
 
 If you enjoy my work, consider following my journey and exploring my repositories.
