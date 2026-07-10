@@ -4,11 +4,7 @@
 
 <br>
 
-<h1 align="center">
-  👋 Hi, I'm
-  <span style="color:#00E5FF;">LIKESH KANNA S</span>
-</h1>
-
+# 👋 Hi, I'm <strong>LIKESH KANNA S</strong>
 <br>
 
 <img src="./assets/hero/hero.svg" width="100%" alt="Hero Banner"/>
