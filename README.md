@@ -411,34 +411,13 @@ class LikeshKanna:
 
 <img src="./assets/hero/divider.svg" width="100%"/>
 
-# 📊 GitHub Analytics
+# 📊 GitHub Insights
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Likesh1235&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Likesh1235&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="48%" src="metrics.svg">
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likesh1235&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="metrics.svg" width="85%">
-
-</div>
-
 
 ---
 
