@@ -4,13 +4,9 @@
 
 <br>
 
-# 👋 Hi, I'm
-# **LIKESH KANNA**
+# 👋 Hi, I'm LIKESH KANNA**
 
 ### 🚀 Applied AI Engineer • AI Agent Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+AI+Systems;Machine+Learning+•+LLMs+•+AI+Agents;Python+•+Java+•+Spring+Boot;Always+Learning+Something+New"/>
-
 <br>
 
 <img src="./assets/hero/hero.svg" width="100%" alt="Hero Banner"/>
