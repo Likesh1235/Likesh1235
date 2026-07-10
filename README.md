@@ -84,7 +84,6 @@ class LikeshKanna:
 <img src="https://img.shields.io/badge/Open%20Source-success?style=for-the-badge"/>
 
 </p>
----
 
 # 🎓 Education
 
