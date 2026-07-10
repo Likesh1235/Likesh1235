@@ -394,8 +394,6 @@ class LikeshKanna:
 
 <div align="center">
 
-### 🚀 Building Intelligent AI Systems with Modern Technologies
-
 <img src="https://img.shields.io/badge/Python%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20LLMs%20%E2%80%A2%20AI%20Agents-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 
 </div>
