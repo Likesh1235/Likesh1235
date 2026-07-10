@@ -460,25 +460,6 @@ class LikeshKanna:
 
 ---
 
-# ⚡ GitHub Overview
-
-<div align="center">
-
-| Metric | Status |
-|:-------:|:------:|
-| 🧠 AI Engineering | 🚀 Active |
-| 🐍 Python Development | ✅ |
-| ☕ Java Development | ✅ |
-| 🌱 Spring Boot | ✅ |
-| 🤖 AI Agents | 🚀 Learning & Building |
-| 💬 LLM Applications | 🚀 Active |
-| 📚 Open Source Learning | ✅ |
-| 🔥 Continuous Improvement | ♾️ |
-
-</div>
-
----
-
 <img src="./assets/hero/glow.svg" width="100%"/>
 
 <img src="./assets/hero/divider.svg" width="100%"/>
