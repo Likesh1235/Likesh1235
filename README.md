@@ -573,3 +573,9 @@ If you enjoy my work, consider following my journey and exploring my repositorie
 **Built with ❤️ by Likesh Kanna**
 
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF512F,F09819&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+
+</div>
