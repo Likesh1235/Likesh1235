@@ -435,7 +435,7 @@ Production Deployment
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/profile-night-view.svg" width="100%" alt="3D Contribution Profile">
 
 </div>
 
