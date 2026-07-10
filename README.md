@@ -411,13 +411,14 @@ class LikeshKanna:
 
 <img src="./assets/hero/divider.svg" width="100%"/>
 
-# 📊 GitHub Insights
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="metrics.svg">
+<img src="metrics.svg" width="85%">
 
 </div>
+
 
 ---
 
