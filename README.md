@@ -305,18 +305,101 @@ class LikeshKanna:
 
 ---
 
-# 🧰 Development Environment
 
-| Category | Technologies |
-|-----------|--------------|
-| Programming | Python • Java |
-| Backend | Spring Boot |
-| AI | Machine Learning • LLMs • AI Agents |
-| Database | MySQL |
-| Containerization | Docker |
-| Version Control | Git & GitHub |
-| IDEs | VS Code • IntelliJ IDEA |
-| Operating System | Windows |
+# ⚡ Development Environment
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Applied%20AI-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Development-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-22C55E?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Backend
+
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/REST%20API-00BCD4?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/JWT-Authentication-7C3AED?style=for-the-badge"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-00E5FF?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Generative%20AI-A855F7?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-2563EB?style=for-the-badge"/>
+<br><br>
+<img src="https://img.shields.io/badge/AI%20Agents-0EA5E9?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠 Development Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea"/>
+<br><br>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+
+### 🚀 Building Intelligent AI Systems with Modern Technologies
+
+<img src="https://img.shields.io/badge/Python%20%E2%80%A2%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20LLMs%20%E2%80%A2%20AI%20Agents-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+
+</div>
+
 
 ---
 
