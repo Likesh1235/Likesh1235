@@ -4,9 +4,8 @@
 
 <br>
 
-# 👋 Hi, I'm LIKESH KANNA
+# 👋 Hi, I'm LIKESHKANNA S
 
-### 🚀 Applied AI Engineer • AI Agent Developer
 <br>
 
 <img src="./assets/hero/hero.svg" width="100%" alt="Hero Banner"/>
