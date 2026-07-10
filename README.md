@@ -1,5 +1,16 @@
 <div align="center">
 
+<img src="./assets/profile-circle.png" width="220" alt="Likesh Kanna"/>
+
+<br><br>
+
+# 👋 Hi, I'm **Likesh Kanna**
+
+### Applied AI Engineer • B.Tech CSE (AI & ML)
+
+</div>
+<div align="center">
+
 <img src="./assets/hero/hero.svg" width="100%" alt="Hero Banner"/>
 
 # 👋 Hello, I'm **Likesh Kanna**
