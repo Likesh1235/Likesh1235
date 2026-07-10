@@ -4,7 +4,7 @@
 
 <br>
 
-# 👋 Hi, I'm LIKESH KANNA**
+# 👋 Hi, I'm LIKESH KANNA
 
 ### 🚀 Applied AI Engineer • AI Agent Developer
 <br>
