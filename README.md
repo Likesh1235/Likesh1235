@@ -425,14 +425,13 @@ class LikeshKanna:
 
 <div align="center">
 
-<a href="https://github.com/Likesh1235/python-practice">
+<a href="https://github.com/Likesh1235/she-ai">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Likesh1235&repo=python-practice&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Likesh1235&repo=she-ai&theme=tokyonight&hide_border=true"/>
 
 </a>
 
 </div>
-
 ---
 
 
