@@ -240,31 +240,7 @@ class LikeshKanna:
 
 ---
 
-# 🤖 AI Engineering Stack
 
-```text
-Artificial Intelligence
-        │
-        ▼
-Machine Learning
-        │
-        ▼
-Generative AI
-        │
-        ▼
-Large Language Models
-        │
-        ▼
-AI Agents
-        │
-        ▼
-Backend APIs
-        │
-        ▼
-Production Deployment
-```
-
----
 
 # ⚡ Core Skills
 
@@ -455,85 +431,6 @@ Production Deployment
 
 ---
 
-# 🎯 What I'm Working On
-
-### 🤖 Applied AI Engineering
-
-- Building intelligent AI applications
-- Exploring Large Language Models (LLMs)
-- Developing AI Agents
-- Learning AI system deployment
-
----
-
-### ☕ Backend Development
-
-- Java
-- Spring Boot
-- REST APIs
-- Authentication
-- Database Integration
-
----
-
-### 🧠 Machine Learning
-
-- NumPy
-- Pandas
-- Scikit-learn
-- Deep Learning Fundamentals
-
----
-
-### 🌍 Open Source
-
-- Improving GitHub profile
-- Publishing learning projects
-- Writing clean and maintainable code
-- Growing contributions
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Python for AI Engineering
-- ✅ Build production-ready AI applications
-- ✅ Learn advanced Spring Boot
-- ✅ Build intelligent AI Agents
-- ✅ Contribute consistently to GitHub
-- ✅ Strengthen Data Structures & Algorithms
-- ✅ Deploy end-to-end AI systems
-- ✅ Expand open-source contributions
-
----
-
-# 📈 Current Learning Roadmap
-
-```text
-Python
-   │
-   ▼
-Machine Learning
-   │
-   ▼
-Deep Learning
-   │
-   ▼
-Generative AI
-   │
-   ▼
-Large Language Models
-   │
-   ▼
-AI Agents
-   │
-   ▼
-Production AI Systems
-```
-
----
-
-<div align="center">
 
 ## 💡 "Keep Learning. Keep Building. Keep Improving."
 
