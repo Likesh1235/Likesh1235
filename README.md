@@ -431,13 +431,14 @@ class LikeshKanna:
 
 ---
 
-# 🚀 GitHub Metrics Dashboard
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="./metrics.svg" width="100%" alt="GitHub Metrics"/>
+<img src="metrics.svg" width="85%">
 
 </div>
+
 
 ---
 
