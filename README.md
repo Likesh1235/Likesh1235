@@ -4,7 +4,10 @@
 
 <br>
 
-# 👋 Hi, I'm LIKESHKANNA S
+<h1 align="center">
+  👋 Hi, I'm
+  <span style="color:#00E5FF;">LIKESH KANNA S</span>
+</h1>
 
 <br>
 
