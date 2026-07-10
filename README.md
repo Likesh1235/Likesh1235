@@ -405,13 +405,10 @@ class LikeshKanna:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
 
 </div>
+
 
 ---
 
