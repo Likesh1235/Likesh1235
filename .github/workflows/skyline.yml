@@ -1,0 +1,31 @@
+name: GitHub Skyline
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # Every Sunday
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  skyline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Skyline README Section
+        run: |
+          mkdir -p skyline
+          echo "# GitHub Skyline" > skyline/README.md
+          echo "" >> skyline/README.md
+          echo "Your GitHub Skyline can be generated at:" >> skyline/README.md
+          echo "https://skyline.github.com/Likesh1235" >> skyline/README.md
+
+      - name: Commit Files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Skyline"

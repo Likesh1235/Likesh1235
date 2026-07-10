@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500">
+<defs>
+  <radialGradient id="core" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.9"/>
+    <stop offset="35%" stop-color="#7C3AED" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#0B1020" stop-opacity="0"/>
+  </radialGradient>
+
+  <filter id="blur20">
+    <feGaussianBlur stdDeviation="20"/>
+  </filter>
+
+  <filter id="blur60">
+    <feGaussianBlur stdDeviation="60"/>
+  </filter>
+</defs>
+
+<rect width="1600" height="500" fill="transparent"/>
+
+<g filter="url(#blur60)">
+  <circle cx="800" cy="250" r="170" fill="url(#core)">
+    <animate attributeName="r"
+      values="160;190;160"
+      dur="6s"
+      repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+      values="0.55;0.9;0.55"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g filter="url(#blur20)">
+  <circle cx="800" cy="250" r="110" fill="#00E5FF" opacity="0.18">
+    <animate attributeName="r"
+      values="105;125;105"
+      dur="4s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="800" cy="250" r="70" fill="#7C3AED" opacity="0.22">
+    <animate attributeName="r"
+      values="65;85;65"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<circle cx="800" cy="250" r="10" fill="#FFFFFF">
+  <animate attributeName="r"
+    values="8;12;8"
+    dur="2s"
+    repeatCount="indefinite"/>
+</circle>
+
+</svg>

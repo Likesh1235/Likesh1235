@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5FF">
+      <animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)" stroke="url(#grad)" stroke-width="2.5" fill="#121A33">
+  <ellipse cx="64" cy="34" rx="28" ry="10"/>
+  <rect x="36" y="34" width="56" height="44"/>
+  <ellipse cx="64" cy="78" rx="28" ry="10"/>
+
+  <ellipse cx="64" cy="50" rx="28" ry="10" fill="none"/>
+  <ellipse cx="64" cy="64" rx="28" ry="10" fill="none"/>
+</g>
+
+<circle cx="64" cy="64" r="4" fill="#00E5FF">
+  <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="96" cy="48" r="2.5" fill="#FF4ECD">
+  <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+
+<text x="64" y="118"
+      text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-size="10"
+      fill="#9CA3AF">DATABASE</text>
+</svg>

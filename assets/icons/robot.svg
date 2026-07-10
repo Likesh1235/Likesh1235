@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#00E5FF">
+<animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#FF4ECD"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="2.5" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)" stroke="url(#grad)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="34" y="28" width="60" height="48" rx="10"/>
+  <rect x="42" y="76" width="44" height="20" rx="6"/>
+  <line x1="64" y1="16" x2="64" y2="28"/>
+  <circle cx="64" cy="13" r="3" fill="#00E5FF"/>
+  <line x1="48" y1="96" x2="42" y2="112"/>
+  <line x1="80" y1="96" x2="86" y2="112"/>
+  <line x1="34" y1="52" x2="22" y2="60"/>
+  <line x1="94" y1="52" x2="106" y2="60"/>
+</g>
+
+<circle cx="52" cy="50" r="5" fill="#00E5FF">
+  <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="76" cy="50" r="5" fill="#7C3AED">
+  <animate attributeName="r" values="4;6;4" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+
+<path d="M52 64 Q64 72 76 64" stroke="#00E5FF" stroke-width="2.5" fill="none">
+  <animate attributeName="d"
+    values="M52 64 Q64 72 76 64;
+            M52 66 Q64 60 76 66;
+            M52 64 Q64 72 76 64"
+    dur="3s" repeatCount="indefinite"/>
+</path>
+
+<circle cx="64" cy="86" r="3" fill="#FF4ECD">
+  <animate attributeName="opacity" values="0.4;1;0.4" dur="1.5s" repeatCount="indefinite"/>
+</circle>
+
+<text x="64" y="122" text-anchor="middle"
+font-family="Arial,sans-serif"
+font-size="10"
+fill="#9CA3AF">AI ROBOT</text>
+</svg>

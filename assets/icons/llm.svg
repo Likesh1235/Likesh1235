@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5FF">
+      <animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)" stroke="url(#grad)" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="24" y="28" width="80" height="56" rx="10"/>
+  <path d="M40 44h48M40 56h34M40 68h42"/>
+  <path d="M64 84v12"/>
+  <path d="M52 96h24"/>
+</g>
+
+<g>
+  <circle cx="96" cy="34" r="10" fill="#7C3AED22" stroke="url(#grad)">
+    <animate attributeName="r" values="9;12;9" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="96" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#FFFFFF">AI</text>
+</g>
+
+<g fill="#00E5FF">
+  <circle cx="40" cy="56" r="2.5">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="88" cy="56" r="2.5">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<text x="64" y="120" text-anchor="middle"
+font-family="Arial,sans-serif"
+font-size="10"
+fill="#9CA3AF">LLM</text>
+
+</svg>

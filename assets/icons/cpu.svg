@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5FF">
+      <animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)" stroke="url(#grad)" fill="none" stroke-width="2.5" stroke-linecap="round">
+  <rect x="32" y="32" width="64" height="64" rx="8" fill="#121A33">
+    <animate attributeName="stroke-width" values="2.5;4;2.5" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="48" y="48" width="32" height="32" rx="4"/>
+  <path d="M48 64H80M64 48V80"/>
+
+  <!-- Pins -->
+  <g>
+    <line x1="24" y1="40" x2="32" y2="40"/>
+    <line x1="24" y1="52" x2="32" y2="52"/>
+    <line x1="24" y1="64" x2="32" y2="64"/>
+    <line x1="24" y1="76" x2="32" y2="76"/>
+    <line x1="24" y1="88" x2="32" y2="88"/>
+
+    <line x1="96" y1="40" x2="104" y2="40"/>
+    <line x1="96" y1="52" x2="104" y2="52"/>
+    <line x1="96" y1="64" x2="104" y2="64"/>
+    <line x1="96" y1="76" x2="104" y2="76"/>
+    <line x1="96" y1="88" x2="104" y2="88"/>
+
+    <line x1="40" y1="24" x2="40" y2="32"/>
+    <line x1="52" y1="24" x2="52" y2="32"/>
+    <line x1="64" y1="24" x2="64" y2="32"/>
+    <line x1="76" y1="24" x2="76" y2="32"/>
+    <line x1="88" y1="24" x2="88" y2="32"/>
+
+    <line x1="40" y1="96" x2="40" y2="104"/>
+    <line x1="52" y1="96" x2="52" y2="104"/>
+    <line x1="64" y1="96" x2="64" y2="104"/>
+    <line x1="76" y1="96" x2="76" y2="104"/>
+    <line x1="88" y1="96" x2="88" y2="104"/>
+  </g>
+</g>
+
+<circle cx="64" cy="64" r="4" fill="#00E5FF">
+  <animate attributeName="r" values="3;6;3" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+
+<text x="64" y="120" text-anchor="middle"
+font-family="Arial,sans-serif"
+font-size="10"
+fill="#9CA3AF">CPU</text>
+
+</svg>

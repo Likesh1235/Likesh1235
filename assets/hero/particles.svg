@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500">
+<defs>
+  <radialGradient id="pGlow">
+    <stop offset="0%" stop-color="#00E5FF" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+
+<rect width="1600" height="500" fill="transparent"/>
+
+<g>
+
+  <g transform="translate(120,90)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 -18;0 0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(260,180)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(430,70)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(620,240)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 -18;0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(810,120)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(980,300)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1180,160)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 -18;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1400,260)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(180,340)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(350,410)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 -18;0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(540,360)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(720,430)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(930,390)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 -18;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1120,70)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1310,420)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1500,110)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 -18;0 0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(90,250)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(250,60)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(470,170)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 -18;0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(690,90)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(870,220)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1040,430)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 -18;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1230,310)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1450,370)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(160,150)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 -18;0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(320,280)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(510,120)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(760,180)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 -18;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(960,60)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 15;0 0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1160,250)">
+    <circle r="4" fill="url(#pGlow)">
+      <animate attributeName="r" values="4;6;4" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1360,140)">
+    <circle r="2" fill="url(#pGlow)">
+      <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;10 -18;0 0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(1540,440)">
+    <circle r="3" fill="url(#pGlow)">
+      <animate attributeName="r" values="3;5;3" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0;-12 15;0 0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+</g>
+
+</svg>

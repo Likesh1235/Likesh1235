@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5FF">
+      <animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)">
+  <!-- Stylized Python-inspired dual curves -->
+  <path d="M44 26
+           C30 26 24 36 24 48
+           C24 58 30 64 42 64
+           H66
+           C74 64 78 70 78 76
+           C78 84 72 90 62 90
+           H44"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+  <path d="M84 102
+           C98 102 104 92 104 80
+           C104 70 98 64 86 64
+           H62
+           C54 64 50 58 50 52
+           C50 44 56 38 66 38
+           H84"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="4"
+        stroke-linecap="round"/>
+
+  <circle cx="48" cy="40" r="3" fill="#00E5FF">
+    <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="80" cy="88" r="3" fill="#FF4ECD">
+    <animate attributeName="r" values="2.5;4.5;2.5" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<text x="64" y="118"
+      text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-size="10"
+      fill="#9CA3AF">PYTHON</text>
+
+</svg>

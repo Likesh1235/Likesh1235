@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#00E5FF">
+<animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#FF4ECD"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="2.5" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+.l{stroke:url(#grad);stroke-width:2.4;fill:none;stroke-linecap:round}
+.n{fill:#00E5FF}
+</style>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)">
+<path class="l" d="M30 35L64 22L98 35L98 64L64 84L30 64Z"/>
+<path class="l" d="M64 22V84"/>
+<path class="l" d="M30 35L64 52L98 35"/>
+<path class="l" d="M30 64L64 52L98 64"/>
+
+<g class="n">
+<circle cx="30" cy="35" r="4"><animate attributeName="r" values="3;5;3" dur="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="64" cy="22" r="4"><animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="98" cy="35" r="4"><animate attributeName="r" values="3;5;3" dur="3s" repeatCount="indefinite"/></circle>
+<circle cx="30" cy="64" r="4"><animate attributeName="r" values="3;5;3" dur="2.8s" repeatCount="indefinite"/></circle>
+<circle cx="64" cy="52" r="5"><animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="98" cy="64" r="4"><animate attributeName="r" values="3;5;3" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="64" cy="84" r="4"><animate attributeName="r" values="3;5;3" dur="2.3s" repeatCount="indefinite"/></circle>
+</g>
+</g>
+
+<text x="64" y="112" text-anchor="middle" font-family="Arial" font-size="10" fill="#9CA3AF">NEURAL NETWORK</text>
+
+</svg>

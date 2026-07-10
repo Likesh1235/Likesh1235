@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5FF">
+      <animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)">
+  <!-- Cup -->
+  <path d="M40 76 H84
+           C84 88 74 96 62 96
+           H54
+           C46 96 40 90 40 76Z"
+        fill="#121A33"
+        stroke="url(#grad)"
+        stroke-width="2.8"/>
+
+  <!-- Handle -->
+  <path d="M84 80
+           C96 80 98 66 88 64"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="2.8"
+        stroke-linecap="round"/>
+
+  <!-- Steam -->
+  <path d="M52 54 C46 44 58 40 52 28"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="2.5"
+        stroke-linecap="round">
+    <animateTransform attributeName="transform"
+      type="translate"
+      values="0 0;2 -2;0 0"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <path d="M64 54 C58 42 72 38 64 24"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="2.5"
+        stroke-linecap="round">
+    <animateTransform attributeName="transform"
+      type="translate"
+      values="0 0;-2 -2;0 0"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <path d="M76 54 C70 44 82 40 76 28"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="2.5"
+        stroke-linecap="round">
+    <animateTransform attributeName="transform"
+      type="translate"
+      values="0 0;2 -3;0 0"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </path>
+</g>
+
+<circle cx="62" cy="84" r="3" fill="#00E5FF">
+  <animate attributeName="r" values="2.5;4.5;2.5" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<text x="64" y="118" text-anchor="middle"
+font-family="Arial,sans-serif"
+font-size="10"
+fill="#9CA3AF">JAVA</text>
+
+</svg>

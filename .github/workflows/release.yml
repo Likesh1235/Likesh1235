@@ -1,0 +1,41 @@
+name: Release Information
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  latest-release:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Release Information
+        run: |
+          mkdir -p generated
+
+          cat <<EOF > generated/release.md
+          ## 🚀 Latest Release
+
+          This section is automatically updated.
+
+          Latest Version: v1.0.0
+
+          Status: Development
+
+          EOF
+
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+
+        with:
+          commit_message: "Update release information"

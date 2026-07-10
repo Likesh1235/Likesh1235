@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5FF">
+      <animate attributeName="stop-color"
+        values="#00E5FF;#7C3AED;#00E5FF"
+        dur="6s"
+        repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)">
+  <path d="M42 82
+           H88
+           C98 82 106 74 106 64
+           C106 55 100 48 91 46
+           C88 34 78 26 66 26
+           C54 26 44 33 40 44
+           C29 45 20 54 20 66
+           C20 75 28 82 42 82Z"
+        fill="#121A33"
+        stroke="url(#grad)"
+        stroke-width="2.8">
+    <animate attributeName="stroke-width"
+      values="2.8;4;2.8"
+      dur="2.5s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <path d="M46 60L58 72L82 48"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round">
+    <animate attributeName="opacity"
+      values="0.4;1;0.4"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <circle cx="34" cy="40" r="2.5" fill="#00E5FF">
+    <animate attributeName="cy"
+      values="40;34;40"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="96" cy="34" r="2.5" fill="#7C3AED">
+    <animate attributeName="cy"
+      values="34;28;34"
+      dur="3.6s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="104" cy="90" r="2.5" fill="#FF4ECD">
+    <animate attributeName="cy"
+      values="90;84;90"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<text x="64" y="118"
+      text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-size="10"
+      fill="#9CA3AF">CLOUD</text>
+</svg>

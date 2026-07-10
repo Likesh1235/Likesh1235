@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#1F2937"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="18s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="shadow">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <!-- Grid -->
+  <g opacity="0.08">
+    <path d="M0 50H1600M0 100H1600M0 150H1600M0 200H1600M0 250H1600M0 300H1600M0 350H1600M0 400H1600M0 450H1600" stroke="#00E5FF"/>
+    <path d="M100 0V500M200 0V500M300 0V500M400 0V500M500 0V500M600 0V500M700 0V500M800 0V500M900 0V500M1000 0V500M1100 0V500M1200 0V500M1300 0V500M1400 0V500M1500 0V500" stroke="#00E5FF"/>
+  </g>
+
+  <!-- Neural lines -->
+  <g stroke="#7C3AED" stroke-width="2" opacity="0.45">
+    <line x1="150" y1="120" x2="350" y2="220"/>
+    <line x1="350" y1="220" x2="600" y2="140"/>
+    <line x1="600" y1="140" x2="850" y2="260"/>
+    <line x1="850" y1="260" x2="1200" y2="150"/>
+    <line x1="1200" y1="150" x2="1450" y2="240"/>
+  </g>
+
+  <!-- Animated nodes -->
+  <g fill="#00E5FF">
+    <circle cx="150" cy="120" r="8"><animate attributeName="r" values="7;11;7" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="220" r="8"><animate attributeName="r" values="7;11;7" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="140" r="8"><animate attributeName="r" values="7;11;7" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="850" cy="260" r="8"><animate attributeName="r" values="7;11;7" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1200" cy="150" r="8"><animate attributeName="r" values="7;11;7" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1450" cy="240" r="8"><animate attributeName="r" values="7;11;7" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Glow -->
+  <circle cx="800" cy="250" r="180" fill="url(#glow)" filter="url(#shadow)">
+    <animate attributeName="r" values="170;200;170" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Glass card -->
+  <rect x="360" y="120" width="880" height="250" rx="26" fill="#111827" opacity="0.72" stroke="#00E5FF" stroke-opacity="0.45"/>
+
+  <text x="800" y="185" text-anchor="middle" fill="#F8FAFC" font-size="46" font-family="Segoe UI,Arial" font-weight="700">
+    LIKESH KANNA
+  </text>
+
+  <text x="800" y="225" text-anchor="middle" fill="#00E5FF" font-size="24" font-family="Segoe UI,Arial">
+    Applied AI Engineer • AI Agent Developer
+  </text>
+
+  <text x="800" y="260" text-anchor="middle" fill="#D1D5DB" font-size="20" font-family="Segoe UI,Arial">
+    Building Intelligent AI Systems
+  </text>
+
+  <!-- Tech pills -->
+  <g font-family="Segoe UI,Arial" font-size="16">
+    <rect x="500" y="300" width="90" height="34" rx="17" fill="#00E5FF22" stroke="#00E5FF"/>
+    <text x="545" y="322" fill="#F8FAFC" text-anchor="middle">Python</text>
+
+    <rect x="610" y="300" width="75" height="34" rx="17" fill="#7C3AED22" stroke="#7C3AED"/>
+    <text x="647" y="322" fill="#F8FAFC" text-anchor="middle">Java</text>
+
+    <rect x="705" y="300" width="140" height="34" rx="17" fill="#00E5FF22" stroke="#00E5FF"/>
+    <text x="775" y="322" fill="#F8FAFC" text-anchor="middle">Spring Boot</text>
+
+    <rect x="865" y="300" width="80" height="34" rx="17" fill="#FF4ECD22" stroke="#FF4ECD"/>
+    <text x="905" y="322" fill="#F8FAFC" text-anchor="middle">LLMs</text>
+
+    <rect x="965" y="300" width="110" height="34" rx="17" fill="#7C3AED22" stroke="#7C3AED"/>
+    <text x="1020" y="322" fill="#F8FAFC" text-anchor="middle">AI Agents</text>
+  </g>
+
+  <!-- Floating icons -->
+  <text x="260" y="400" font-size="38">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="4s" repeatCount="indefinite"/>
+    🤖
+  </text>
+  <text x="1330" y="395" font-size="38">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="5s" repeatCount="indefinite"/>
+    ☁️
+  </text>
+</svg>

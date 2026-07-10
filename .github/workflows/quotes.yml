@@ -1,0 +1,30 @@
+name: Update Dev Quote
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  quote:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Quote
+        uses: Readme-Workflows/random-quote@v1
+        with:
+          commit_message: "Update developer quote"
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto update quote"

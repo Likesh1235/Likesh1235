@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#00E5FF">
+<animate attributeName="stop-color" values="#00E5FF;#7C3AED;#00E5FF" dur="6s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#FF4ECD"/>
+</linearGradient>
+<filter id="glow">
+<feGaussianBlur stdDeviation="2.5" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)" stroke="url(#g)" fill="none" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M64 24
+C48 24 38 34 38 46
+C28 50 26 66 36 74
+C36 90 48 102 64 102
+C80 102 92 90 92 74
+C102 66 100 50 90 46
+C90 34 80 24 64 24Z">
+<animate attributeName="stroke-width" values="2.8;3.8;2.8" dur="2.8s" repeatCount="indefinite"/>
+</path>
+
+<path d="M64 30V96"/>
+<path d="M52 40C60 46 60 54 52 60"/>
+<path d="M76 40C68 46 68 54 76 60"/>
+<path d="M48 70C58 74 58 84 50 90"/>
+<path d="M80 70C70 74 70 84 78 90"/>
+<path d="M58 54H70"/>
+<path d="M56 78H72"/>
+</g>
+
+<circle cx="64" cy="64" r="4" fill="#00E5FF">
+<animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+</svg>

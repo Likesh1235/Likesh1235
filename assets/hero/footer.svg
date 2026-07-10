@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 260">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#0B1020">
+<animate attributeName="stop-color" values="#0B1020;#121A33;#0B1020" dur="10s" repeatCount="indefinite"/>
+</stop>
+<stop offset="100%" stop-color="#151A2F"/>
+</linearGradient>
+
+<linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00E5FF"/>
+<stop offset="100%" stop-color="#7C3AED"/>
+</linearGradient>
+
+<filter id="blur">
+<feGaussianBlur stdDeviation="8"/>
+</filter>
+
+<style>
+.title{font:700 30px Arial,sans-serif;fill:#fff}
+.sub{font:18px Arial,sans-serif;fill:#D1D5DB}
+.small{font:16px Arial,sans-serif;fill:#9CA3AF}
+</style>
+</defs>
+
+<rect width="1600" height="260" fill="url(#bg)"/>
+
+<circle cx="800" cy="120" r="130" fill="#00E5FF22" filter="url(#blur)">
+<animate attributeName="r" values="120;145;120" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<path fill="url(#wave)" opacity="0.45">
+<animate attributeName="d" dur="8s" repeatCount="indefinite"
+values="
+M0,190 C250,160 450,220 700,190 C950,160 1200,220 1600,180 L1600,260 L0,260 Z;
+M0,180 C250,220 450,150 700,200 C950,240 1200,150 1600,190 L1600,260 L0,260 Z;
+M0,190 C250,160 450,220 700,190 C950,160 1200,220 1600,180 L1600,260 L0,260 Z"/>
+</path>
+
+<rect x="260" y="35" width="1080" height="130" rx="24"
+fill="#111827AA" stroke="#00E5FF66"/>
+
+<text x="800" y="78" text-anchor="middle" class="title">Thanks for Visiting</text>
+<text x="800" y="108" text-anchor="middle" class="sub">LIKESH KANNA • Applied AI Engineer</text>
+<text x="800" y="132" text-anchor="middle" class="small">Building Intelligent AI Systems</text>
+<text x="800" y="155" text-anchor="middle" class="small">Python • Java • Spring Boot • LLMs • AI Engineering</text>
+<text x="800" y="225" text-anchor="middle" class="small">📧 likeshkanna74@gmail.com • 🔗 linkedin.com/in/likesh-kanna-77467b30b</text>
+</svg>

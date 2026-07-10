@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#00E5FF">
+      <animate attributeName="stop-color"
+        values="#00E5FF;#7C3AED;#00E5FF"
+        dur="6s"
+        repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#FF4ECD"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="b"/>
+    <feMerge>
+      <feMergeNode in="b"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="128" height="128" rx="24" fill="#0B1020"/>
+
+<g filter="url(#glow)">
+  <!-- Whale body -->
+  <path d="M26 68
+           C26 46 46 36 68 36
+           C88 36 100 46 104 60
+           C108 60 112 56 114 50
+           C114 62 110 70 104 74
+           C100 90 86 98 66 98
+           C42 98 26 86 26 68Z"
+        fill="#121A33"
+        stroke="url(#grad)"
+        stroke-width="2.8"/>
+
+  <!-- Tail -->
+  <path d="M24 62
+           C16 56 14 48 18 42
+           C24 46 28 52 30 60"
+        fill="#121A33"
+        stroke="url(#grad)"
+        stroke-width="2.5"/>
+
+  <!-- Eye -->
+  <circle cx="82" cy="58" r="2.5" fill="#00E5FF">
+    <animate attributeName="r"
+      values="2;3.5;2"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Containers -->
+  <rect x="50" y="50" width="10" height="8" rx="1.5"
+        fill="none" stroke="url(#grad)" stroke-width="1.8"/>
+  <rect x="62" y="50" width="10" height="8" rx="1.5"
+        fill="none" stroke="url(#grad)" stroke-width="1.8"/>
+  <rect x="74" y="50" width="10" height="8" rx="1.5"
+        fill="none" stroke="url(#grad)" stroke-width="1.8"/>
+
+  <rect x="56" y="60" width="10" height="8" rx="1.5"
+        fill="none" stroke="url(#grad)" stroke-width="1.8"/>
+  <rect x="68" y="60" width="10" height="8" rx="1.5"
+        fill="none" stroke="url(#grad)" stroke-width="1.8"/>
+
+  <!-- Water -->
+  <path d="M44 88
+           C50 82 58 94 64 88
+           C70 82 78 94 84 88"
+        fill="none"
+        stroke="url(#grad)"
+        stroke-width="2">
+    <animate attributeName="d"
+      values="
+      M44 88 C50 82 58 94 64 88 C70 82 78 94 84 88;
+      M44 90 C50 96 58 84 64 90 C70 96 78 84 84 90;
+      M44 88 C50 82 58 94 64 88 C70 82 78 94 84 88"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </path>
+</g>
+
+<text x="64" y="118"
+      text-anchor="middle"
+      font-family="Arial,sans-serif"
+      font-size="10"
+      fill="#9CA3AF">DOCKER</text>
+
+</svg>
