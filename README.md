@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 # 🚀 About Me
 
 ```python
