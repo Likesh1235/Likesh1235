@@ -1,1 +1,25 @@
+name: Update README Assets
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh README
+        run: |
+          echo "README assets refreshed on $(date)" > .last-update.txt
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto refresh README assets"
