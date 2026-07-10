@@ -30,40 +30,41 @@
 
 # 🚀 About Me
 
-<table>
+```python
+class LikeshKanna:
 
-<tr>
+    def __init__(self):
+        self.name = "Likesh Kanna"
+        self.role = "Applied AI Engineer"
+        self.education = "B.Tech CSE (AI & ML)"
+        self.university = "SRM Institute of Science and Technology"
+        self.location = "Tamil Nadu 🇮🇳"
 
-<td width="60%">
+        self.languages = [
+            "Python 🐍",
+            "Java ☕"
+        ]
 
-### 👋 Hi, I'm Likesh Kanna
+        self.backend = [
+            "Spring Boot 🍃"
+        ]
 
-🎓 B.Tech CSE (AI & ML)
+        self.ai = [
+            "Machine Learning 🤖",
+            "Generative AI ✨",
+            "LLMs 🧠",
+            "AI Agents ⚡"
+        ]
 
-🏫 SRM Institute of Science and Technology
+        self.current_focus = [
+            "Applied AI 🚀",
+            "Backend Development 💻",
+            "Open Source ❤️"
+        ]
 
-📍 Tamil Nadu, India
-
-🤖 Passionate about Applied AI
-
-💻 Backend Developer
-
-🚀 Building AI-powered products
-
-❤️ Love Open Source
-
-</td>
-
-<td>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=250&height=120&lines=Applied+AI+Engineer;Backend+Developer;Spring+Boot;LLMs;AI+Agents"/>
-
-</td>
-
-</tr>
-
-</table>
-
+    def motto(self):
+        return "Building AI systems that solve real-world problems."
+```
 ---
 
 ### 🛠 Skills
