@@ -1,40 +1,23 @@
 <div align="center">
 
-<img src="./assets/hero/profile-circle.png" width="200" alt="Likesh Kanna"/>
+<img src="./assets/hero/profile-circle.png" width="175" alt="Likesh Kanna"/>
 
 <br>
 
-<img src="./assets/hero/glow.svg" width="520"/>
+# 👋 Hi, I'm
+
+# **LIKESH KANNA**
+
+### 🚀 Applied AI Engineer • AI Agent Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&lines=Building+Intelligent+AI+Systems;Machine+Learning+•+LLMs+•+AI+Agents;Python+•+Java+•+Spring+Boot;Always+Learning+Something+New"/>
 
 <br>
 
-# 👋 Hi, I'm **Likesh Kanna**
-
-### 🤖 Applied AI Engineer • AI Agent Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems;Machine+Learning+•+LLMs+•+AI+Agents;Python+•+Java+•+Spring+Boot;Open+Source+Contributor"/>
-
-<br>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Likesh1235">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="./assets/hero/hero.svg" width="100%"/>
+<img src="./assets/hero/hero.svg" width="100%" alt="Hero Banner"/>
 
 </div>
 
----
 ---
 
 # 🚀 About Me
