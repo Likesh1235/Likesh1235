@@ -4,10 +4,6 @@
 
 <br><br>
 
-# 👋 Hi, I'm **Likesh Kanna**
-
-### Applied AI Engineer • B.Tech CSE (AI & ML)
-
 </div>
 <div align="center">
 
