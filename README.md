@@ -411,9 +411,11 @@ class LikeshKanna:
 
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Likesh1235/Likesh1235/output/profile-night-rainbow.svg?raw=1" width="100%" alt="3D Contribution Profile" />
-</p>
+<a href="https://github.com/Likesh1235/she-ai">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Likesh1235&repo=she-ai&theme=tokyonight&hide_border=true"/>
+
+</a>
 
 </div>
 
